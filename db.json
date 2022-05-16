@@ -1,14 +1,110 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post one" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "perguntasPortugues": [
+  "portugueseTheme": [
     {
-      "pergunta": "Testando pergunta",
-      "respostas": ["1", "2", "3"],
-      "resposta": "1"
+      "question": "1- Qual sinônimo de rápido?",
+      "options": ["Demorado", "Lento", "Ágil", "Pausado"],
+      "answer": "Ágil"
+    },
+    {
+      "question": "2- Qual o plural da palavra Capitão?",
+      "options": ["Capitães", "Capitãos", "Capitões", "Capitãoes"],
+      "answer": "Capitães"
+    },
+    {
+      "question": "3- Quantas vogais a palavra 'Brinquedo' possui?",
+      "options": ["4", "3", "5", "6"],
+      "answer": "4"
+    },
+    {
+      "question": "4- Separando em sílabas a palavra 'Professora', tem-se?",
+      "options": ["Pro-fe-sso-ra", "Pro-fe-ss-ora", "Prof-es-so-ra", "Pro-fes-so-ra"],
+      "answer": "Pro-fes-so-ra"
+    },
+    {
+      "question": "5- Qual dessas palavras está escrita de forma errada?",
+      "options": ["Girassol", "Conputador", "Chinelo", "Avestruz"],
+      "answer": "Conputador"
+    }
+  ],
+  "histGeoTheme": [
+    {
+      "question": "1- A maior parte da Floresta Tropical está localizada em que estado?",
+      "options": ["Amazonas", "Rio Grande do Norte", "Minas Gerais", "Bahia"],
+      "answer": "Amazonas"
+    },
+    {
+      "question": "2- Qual a capital do Brasil?",
+      "options": ["São Paulo", "Rio de Janeiro", "Brasília", "Salvador"],
+      "answer": "Brasília"
+    },
+    {
+      "question": "3- Quem assinou a lei de libertação dos escravos no Brasil (Lei Áurea)?",
+      "options": ["Princesa Diana", "Tiradentes", "Lampião", "Princesa Isabel"],
+      "answer": "Princesa Isabel"
+    },
+    {
+      "question": "4- O que Dom Pedro I gritou as margens do rio Ipiranga?",
+      "options": ["Ordem e progresso", "Pátria Amada Brasil", "Independência ou morte", "Independência já"],
+      "answer": "Independência ou morte"
+    },
+    {
+      "question": "5- Quem já estava aqui no Brasil quando os portugueses chegaram em 1500?",
+      "options": ["Os Vikings", "Os Indígenas", "Os Astecas", "Não havia ningúem"],
+      "answer": "Os Indígenas"
+    }
+  ],
+  "scienceTheme": [
+    {
+      "question": "1- Como se chama o movimento que a Terra faz em torno de si mesma?",
+      "options": ["Translação", "Inspiração", "Rotação", "Expiração"],
+      "answer": "Rotação"
+    },
+    {
+      "question": "2- Os animais que se alimentam apenas de carne são classificados como",
+      "options": ["Onívoros", "Carnívoros", "Herbívoros", "Vegetarianos"],
+      "answer": "Carnívoros"
+    },
+    {
+      "question": "3- As plantas produzem seu próprio alimento. Qual o nome desse processo?",
+      "options": ["Ebulição", "Evolução", "Fissão", "Fotossíntese"],
+      "answer": "Fotossíntese"
+    },
+    {
+      "question": "4- Quais destes animais são ovíparos (botam ovos)?",
+      "options": ["Cobra e Aranha", "Golfinho e Sapo", "Macaco e Galinha", "Tartaruga e Onça"],
+      "answer": "Cobra e Aranha"
+    },
+    {
+      "question": "5- Qual das alternativas NÃO corresponde aos sentidos do corpo humano?",
+      "options": ["Visão e Audição", "Olfato e Paladar", "Tato e Olfato", "Visão e Pensamento"],
+      "answer": "Visão e Pensamento"
+    }
+  ],
+  "generalTheme": [
+    {
+      "question": "1- Qual o idioma mais falado no mundo atualmente?",
+      "options": ["Português", "Inglês", "Espanhol", "Mandarim"],
+      "answer": "Inglês"
+    },
+    {
+      "question": "2- Qual personagem do Folclore Brasileiro tem os pés virados para trás?",
+      "options": ["Saci-pererê", "Cuca", "Mula sem cabeça", "Curupira"],
+      "answer": "Curupira"
+    },
+    {
+      "question": "3- Que nome se dá ao processo de reaproveitamento do lixo?",
+      "options": ["Restauração", "Fusão", "Racionamento", "Reciclagem"],
+      "answer": "Reciclagem"
+    },
+    {
+      "question": "4- Qual fruto é a matéria prima do chocolate?",
+      "options": ["Abacate", "Kiwi", "Cacau", "Abóbora"],
+      "answer": "Cacau"
+    },
+    {
+      "question": "5- Qual desses pintores é brasileiro?",
+      "options": ["Candido Portinari", "Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh"],
+      "answer": "Candido Portinari"
     }
   ]
 }
